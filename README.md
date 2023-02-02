@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abhishek2468123
 - 👀 I’m interested in learning c++ and java.
-- 🌱 I’m currently learning data structures using c++
-- 💞️ I’m looking to collaborate on c++
+- 🌱 I’m currently learning data structures using java
+- 💞️ I’m looking to collaborate on c++ and java
 - 📫 How to reach me wa.me/6260427919
 
 <!---
